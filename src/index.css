@@ -1,3 +1,10 @@
 @tailwind base;
+
 @tailwind components;
+@layer components {
+  h2 {
+    @apply uppercase;
+  }
+}
+
 @tailwind utilities;
