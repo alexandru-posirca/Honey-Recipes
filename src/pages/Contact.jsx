@@ -1,8 +1,11 @@
+import ModuleTop from "../components/ModuleTop";
+
 export default function Contact() {
   return (
     <div className="contact-page">
-      <div className="container">
-        <h2>Contact</h2>
+      <div>
+        <ModuleTop title={"Contact"} subtitle={"Get in touch with your source of inspiration and energy"}/>
+        <h2>Content contact</h2>
       </div>
     </div>
   );

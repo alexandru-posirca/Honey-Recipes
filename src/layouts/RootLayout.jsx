@@ -2,7 +2,7 @@ import { Link, Outlet } from "react-router-dom";
 
 function RootLayout() {
   return (
-    <div className="flex flex-col items-center bg-yellow-200 min-h-screen">
+    <div className="flex flex-col items-center bg-yellow-100 min-h-screen">
       <header className="w-full text-lg uppercase justify-center bg-yellow-400 font-semibold">
         <ul className="flex gap-5 justify-center">
           <li>
@@ -16,7 +16,7 @@ function RootLayout() {
           </li>
         </ul>
       </header>
-      <main className="min-h-screen">
+      <main className="min-h-screen w-full">
         <Outlet />
       </main>
       <footer className="w-full flex justify-center bg-yellow-400 font-semibold">

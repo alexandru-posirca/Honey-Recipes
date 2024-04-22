@@ -7,8 +7,9 @@ export default {
   theme: {
     colors: {
       "yellow": {
-        200 : "#fff3ce",
-        400: "#ffc40a"
+        100 : "#fff3ce",
+        200: "#fce69e",
+        400: "#e8b307"
       }
     },
     screens: {
