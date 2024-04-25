@@ -7,7 +7,7 @@ import {
 
 import Home from "./pages/Home";
 import Recipes from "./pages/Recipes";
-import Contact from "./pages/Contact";
+import Contact from "./pages/contact/Contact";
 import NotFound from "./pages/NotFound";
 import RootLayout from "./layouts/RootLayout";
 
