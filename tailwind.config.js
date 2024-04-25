@@ -17,6 +17,9 @@ export default {
       lg: "1024px",
       xl: "1440px"
     },
+    container: {
+      padding: "1rem"
+    },
     extend: {
     },
   },
