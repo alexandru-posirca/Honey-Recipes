@@ -3,7 +3,10 @@
 @tailwind components;
 @layer components {
   h2 {
-    @apply uppercase;
+    @apply uppercase text-white;
+  }
+  h2, p {
+    text-shadow: 1px 1px 2px #000000;
   }
 }
 
