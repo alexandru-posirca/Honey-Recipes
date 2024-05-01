@@ -1,0 +1,463 @@
+{
+  "recipes-data": [
+    {
+      "id": 1,
+      "title": "Ecler cu cafea și nuci",
+      "category": "Ecler",
+      "time": "30 min",
+      "img": "/assets/img/ecler-cafea-nuci.jpg",
+      "description": "Pentru iubitorii de cafea acest desert este o feerie de gusturi intense, care se completează cu blândeţe. Este pufos, savuros, alegerea perfectă pentru un răsfăţ la amiază sau într-un weekend tihnit.",
+      "ingredients": [
+        "Făină",
+        "Apă",
+        "Unt",
+        "Ouă",
+        "Cafea măcinată",
+        "Nuci",
+        "Zahăr",
+        "Lapte",
+        "Unt pentru cremă",
+        "Zahăr pudră",
+        "Gelatină",
+        "Ciocolată neagră"
+      ],
+      "preparation": [
+        "Pentru început, pregătiți aluatul pentru eclere. Într-o cratiță, puneți apa, untul și o parte din cantitatea de zahăr. Aduceți la fierbere și adăugați făina împreună cu cafeaua măcinată. Amestecați energic până când obțineți un aluat omogen și apoi răciți-l puțin.",
+        "Continuați prin adăugarea ouălor bătute treptat în aluatul răcit, amestecându-le bine până când compoziția devine netedă și uniformă. Puneți aluatul într-un șpritz și formați bastonașe de ecler pe o tavă pregătită cu hârtie de copt. Coaceți în cuptorul preîncălzit până ce eclerele devin aurii și cresc frumos.",
+        "Între timp, pregătiți crema de cafea și nuci. Într-o cratiță, încălziți laptele cu cafeaua, adăugați zahărul și nucile mărunțite. Lăsați compoziția să fiarbă ușor și apoi răciți-o la temperatura camerei pentru a obține o cremă delicioasă.",
+        "Pentru crema de umplutură, mixați untul cu zahărul pudră până obțineți o textură fină. Adăugați treptat compoziția de lapte și cafea peste untul mixat, amestecându-le împreună. Incorporați gelatina dizolvată în prealabil conform instrucțiunilor.",
+        "Când eclerele sunt complet răcite, umpleți-le generos cu crema de cafea și nuci folosind un sac de patiserie sau o linguriță. Topiți ciocolata neagră și glasați fiecare ecler pentru un aspect final atrăgător. Lăsați eclerele să se răcească înainte de servire și apoi bucurați-vă de această delicioasă și aromată prăjitură!"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tort cu ciocolată și visine",
+      "category": "Tort",
+      "time": "80 min",
+      "img": "/assets/img/tort-ciocolata-visine.jpg",
+      "description": "Un deliciu de ciocolată savuroasă în care vişinele vin să echilibreze gustul puternic şi să îi dea un refresh, doar pentru ca să îţi doreşti la fel de mult să iei şi următoarea gură de tort.",
+      "ingredients": [
+        "Făină",
+        "Ciocolată neagră",
+        "Ouă",
+        "Zahăr",
+        "Unt",
+        "Cacao",
+        "Esență de vanilie",
+        "Smântână",
+        "Vișine",
+        "Bicarbonat de sodiu",
+        "Pudră de copt",
+        "Lapte"
+      ],
+      "preparation": [
+        "Începeți prin pregătirea blatului de tort. Într-un bol, topiți ciocolata neagră împreună cu untul la bain-marie. În alt vas, mixați ouăle cu zahărul până când obțineți o compoziție spumoasă și de culoare deschisă. Adăugați amestecul de ciocolată și unt peste ouă și amestecați bine. Incorporați esența de vanilie.",
+        "Continuați prin adăugarea ingredientelor uscate. Cerniți făina, cacaoa, bicarbonatul de sodiu și pudra de copt peste amestecul lichid și amestecați până când toate ingredientele se omogenizează. Adăugați treptat laptele și amestecați până la formarea unui aluat fin și omogen.",
+        "Turnați compoziția rezultată într-o formă de tort unsă și tapetată cu hârtie de copt. Distribuiți uniform vișinele peste aluatul din formă și apăsați-le ușor în aluat. Coaceți în cuptorul preîncălzit la temperatura specificată până când blatul este copt și trece testul scobitorii.",
+        "În timp ce blatul se răcește, pregătiți ganache-ul de ciocolată. Încălziți smântâna într-o cratiță mică și aduceți-o la punctul de fierbere. Turnați smântâna fierbinte peste ciocolata neagră și amestecați până când ciocolata se topește complet și compoziția devine netedă și lucioasă.",
+        "Răciți ganache-ul pentru a-l întări puțin, apoi turnați-l peste blatul de tort. Lăsați tortul să se odihnească la temperatura camerei pentru a permite ganache-ului să se întărească. După aceasta, tăiați și serviți acest delicios tort cu ciocolată și vișine, savurând fiecare bucată aromată și bogată în textură."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Tartă cu alune de pădure și vanilie",
+      "category": "Tartă",
+      "time": "40 min",
+      "img": "/assets/img/tarta-alune-padure-vanilie.jpg",
+      "description": "Tartă cu blat de bezea și alune de pădure, acompaniată de o cremă de unt cu vanilie, cacao și coniac, reprezintă o combinație perfectă între crocanta bezea, aromele subtile de alune de pădure și cremoasa cremă de unt. O experiență dulce și rafinată, savurată în fiecare mușcătură",
+      "ingredients": [
+        "Făină",
+        "Unt",
+        "Alune de pădure",
+        "Zahăr",
+        "Ouă",
+        "Esenta de vanilie",
+        "Sare",
+        "Smântână",
+        "Pudră de copt",
+        "Gălbenuș de ou"
+      ],
+      "preparation": [
+        "Pentru a pregăti aluatul, amestecă făina, untul rece și cubulețele de unt până când obții o consistență nisipoasă. Adaugă treptat apă rece și formează un aluat omogen. Înfășoară aluatul în folie și lasă-l la frigider pentru aproximativ 30 de minute.",
+        "Între timp, pregătește umplutura pentru tartă. Mărunțește alunele de pădure și prăjește-le ușor într-o tigaie, pentru a intensifica aromele. Mixează untul moale cu zahărul până devine cremos, adaugă esența de vanilie și ouăle, unul câte unul.",
+        "Adaugă smântâna și sarea în compoziția de unt și amestecă până se integrează bine. Adaugă alunele de pădure prăjite și amestecă ușor. Scoate aluatul din frigider și întinde-l într-o formă de tartă. Toarnă umplutura pregătită în formă.",
+        "Coace tarta în cuptorul preîncălzit la temperatura specificată în rețetă, până când crusta este auriu închisă și umplutura este coaptă și fermă. Lasă tarta să se răcească înainte de a o tăia. Poți decora cu alune de pădure adiționale sau cu frișcă, după preferințe.",
+        "Serveste tarta cu alune de pădure și vanilie ca desert sau gustare delicioasă, savurând fiecare bucată care combină perfect crocănța crustei, aroma delicată de vanilie și bogăția alunelor de pădure pentru o experiență de gust satisfăcătoare."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mini Pavlova",
+      "category": "Mini-Prajitură",
+      "time": "45 min",
+      "img": "/assets/img/mini-pavlova.jpg",
+      "description": "Pavlova impresionează prin contrastul crocant al bezelei, învăluit într-o umplutură moale de smântână și fructe proaspete, oferind o explozie delicioasă de arome și texturi în fiecare mușcătură.",
+      "ingredients": [
+        "Albușuri de ou",
+        "Zahăr",
+        "Oțet de vin sau zeamă de lămâie",
+        "Feculă de porumb",
+        "Esenta de vanilie",
+        "Smântână lichidă",
+        "Zahăr pudră",
+        "Fructe proaspete",
+        "Mentă proaspătă",
+        "Ciocolată neagră",
+        "Sare",
+        "Pudră de copt"
+      ],
+      "preparation": [
+        "Pentru a începe, preîncălzește cuptorul la temperatura specificată. Într-un bol curat, începe bătătura albușurilor de ou până când formează vârfuri moi. Adaugă treptat zahărul, bătând continuu până obții o spumă lucioasă și fermă.",
+        "Adaugă apoi oțetul de vin sau zeama de lămâie, esența de vanilie și făina de porumb amestecată cu puțină sare și pudră de copt. Continuă să amesteci cu grijă până când toate ingredientele sunt încorporate uniform.",
+        "Pregătește o tavă de copt acoperită cu hârtie pergament. Pune amestecul de albușuri de ou pe tavă, formând o formă rotundă sau ovală, creând o adâncitură ușoară în mijloc pentru umplutură.",
+        "Coace bezeaua în cuptorul preîncălzit până când pavlova capătă o culoare auriu deschis și devine crocantă la suprafață, apoi reduce temperatura cuptorului și lasă-o să se usuce și să se răcească în cuptor.",
+        "Odată răcită, decorează pavlova cu smântână bătută, fructele proaspete preferate, frunze de mentă și fulgi de ciocolată neagră, creând astfel un desert spectaculos, delicios și plin de arome."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ecler cu banană și unt de arahide",
+      "category": "Ecler",
+      "time": "25 min",
+      "img": "/assets/img/eclar-banana-arahide.jpg",
+      "description": "Acest ecler este un desert special, cremos şi aromat. Bananele şi untul de arahide se potrivesc perfect şi completează elegant aluatul crocant.",
+      "ingredients": [
+        "Făină",
+        "Apă",
+        "Unt",
+        "Ouă",
+        "Banane",
+        "Unt de arahide",
+        "Zahăr",
+        "Lapte",
+        "Pudră de copt",
+        "Vanilie",
+        "Sare",
+        "Smântână"
+      ],
+      "preparation": [
+        "Pentru a începe prepararea eclerului cu banană și unt de arahide, încălziți apa și untul într-o cratiță până când amestecul ajunge la punctul de fierbere. Adăugați făina și sarea, amestecând energic până când compoziția formează un aluat omogen ce se desprinde de pereții cratiței. Lăsați aluatul să se răcească puțin.",
+        "Adăugați ouăle unul câte unul în aluatul încă cald, amestecând bine după fiecare adăugare, până când obțineți o compoziție netedă și lucioasă. Continuați prin incorporarea vaniliei și pudrei de copt, amestecându-le ușor. Lăsați aluatul să se odihnească pentru câteva minute.",
+        "Între timp, pregătiți crema delicioasă pentru eclere. Într-o cratiță, încălziți smântâna, laptele și zahărul până când compoziția începe să fiarbă. Adăugați bananele zdrobite și untul de arahide, amestecându-le bine pentru a obține o cremă omogenă și bogată în arome.",
+        "Formați eclerele pe o tavă tapetată cu hârtie de copt folosind aluatul pregătit anterior și coaceți-le în cuptorul preîncălzit până când devin aurii și se umflă frumos. Odată răcite, umpleți fiecare ecler cu generozitate cu crema de banane și unt de arahide folosind un sac de patiserie sau o lingură.",
+        "Experimentați această combinație surprinzătoare și delicioasă, unde aroma dulce și bogată a bananelor se îmbină perfect cu gustul cremos și intens al untului de arahide. Savurați fiecare mușcătură și bucurați-vă de această prăjitură plină de texturi și arome inedite, care vă vor încânta papilele gustative și vă vor răsfăța simțurile!"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Tort artizanal red velvet",
+      "category": "Tort",
+      "time": "90 min",
+      "img": "/assets/img/tort-red-velvet.jpg",
+      "description": "Un tort adorabil și răcoritor, cu straturi de blat roz și alb, învăluit într-o umplutură cremoasă de căpșuni proaspete și frisca delicată. O explozie de arome dulci și proaspete, împodobit cu fructe vibrante, oferind o experiență gustativă delicioasă și aspect plin de farmec.",
+      "ingredients": [
+        "Făină",
+        "Zahăr",
+        "Ouă",
+        "Unt",
+        "Căpșuni proaspete",
+        "Frisca lichidă",
+        "Gelatină",
+        "Suc de fructe (cirese sau căpșuni)",
+        "Glucoză",
+        "Pudră de copt",
+        "Vanilie",
+        "Colorant alimentar roșu"
+      ],
+      "preparation": [
+        "Pentru a pregăti blatul, mixați untul moale cu zahărul până când obțineți o compoziție omogenă și cremoasă. Adăugați ouăle, unul câte unul, amestecând bine după fiecare adăugare. Incorporați treptat făina amestecată cu pudra de copt și vanilie, continuând să amestecați până când obțineți un aluat omogen.",
+        "Divizați aluatul în două părți egale. Adăugați colorantul alimentar roșu în una dintre părți, amestecând bine pentru a obține un aluat de culoare roz intens. Turnați cele două tipuri de aluat în tăvi de copt pregătite și nivelează-le. Coaceți în cuptorul preîncălzit până când blaturile sunt rumenite și treceți testul scobitorii. Lăsați-le să se răcească complet.",
+        "Pentru umplutură, mixați căpșunile proaspete într-un piure fin. Într-un vas mic, hidratați gelatina în sucul de fructe, apoi încălziți amestecul pe foc mic până când gelatina se dizolvă complet. Adăugați piureul de căpșuni și glucoza dizolvată, amestecând până la omogenizare.",
+        "Bateți frisca lichidă până când obțineți o consistență fermă. Incorporați gelatina cu căpșuni în friscă și amestecați ușor pentru a combina ingredientele. Răciți puțin până când amestecul începe să se întărească ușor.",
+        "Montați tortul alternând straturi de blat roz și alb, împreună cu straturi generoase de umplutură de căpșuni între ele. Acoperiți tortul cu restul umpluturii și decorați-l cu căpșuni proaspete și alte fructe la alegere. Lăsați-l să se odihnească în frigider pentru a se întări complet înainte de a fi servit."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Tartă cu mango și vanilie",
+      "category": "Tartă",
+      "time": "35 min",
+      "img": "/assets/img/tarta-vanilie-mango.jpg",
+      "description": "Peste aluatul celebru al tartei inventată în Franţa adăugăm o cremă delicată şi teribil de aromată, realizată din fructe exotice. Este un desert răcoritor, ideal pentru pasionaţii de gusturi fine de vanilie și mango.",
+      "ingredients": [
+        "Făină",
+        "Unt",
+        "Zahăr",
+        "Ouă",
+        "Esență de vanilie",
+        "Mango proaspăt sau congelat",
+        "Gelatină",
+        "Zahăr pudră",
+        "Smântână lichidă",
+        "Gălbenuș de ou",
+        "Pudră de copt",
+        "Sare"
+      ],
+      "preparation": [
+        "Pentru aluat, amestecă făina cu untul rece tăiat cubulețe și sarea până când obții un amestec nisipos. Adaugă apoi oul și esența de vanilie, continuând să amesteci până când aluatul începe să se lege. Formează un disc din aluat, învelește-l în folie alimentară și lasă-l la frigider pentru cel puțin 30 de minute.",
+        "Între timp, prepară umplutura pentru tartă. Curăță mango-ul și taie-l cubulețe. Pune cuburile de mango într-un vas și folosește un blender sau un robot de bucătărie pentru a obține un piure fin. Hidratează gelatina conform instrucțiunilor de pe ambalaj.",
+        "Pune piureul de mango într-un vas potrivit și adaugă zahărul pudră. Încălzește amestecul ușor, amestecând până când zahărul se dizolvă complet. Adaugă gelatina hidratată și amestecă până când se încorporează bine. Lasă compoziția deoparte să se răcească.",
+        "Întinde aluatul într-o formă de tartă și pune-l într-o tavă specială. Introduce forma în frigider pentru încă 15 minute. Încălzește cuptorul la temperatura specificată și coace crusta de tartă până când devine auriu închisă. Lasă crusta să se răcească.",
+        "Când crusta este complet răcită, toarnă umplutura de mango peste ea și nivelează suprafața. Lasă tartă la frigider pentru cel puțin 2-3 ore sau până când umplutura devine fermă. Servește tartă cu felii subțiri de mango sau cu fructe proaspete pentru un aspect și o aromă proaspătă."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Acadele",
+      "category": "Mini-Prajitură",
+      "time": "30 min",
+      "img": "/assets/img/acadele-prajitura.jpg",
+      "description": "Acadelele-prăjituri sunt unele dintre cele mai îndrăgite deserturi la evenimente. Sunt uşor de mâncat, cu arome dintre cele mai delicioase şi creează un efect vizual foarte plăcut. Cake Pops-urile noastre sunt realizate din blat umed cu ciocolată şi fructe pentru toate gusturile.",
+      "ingredients": [
+        "Zahăr",
+        "Sirop de fructe",
+        "Extract de vanilie",
+        "Pudră de matcha",
+        "Caramel lichid sau sos de caramel",
+        "Scorțișoară, nucșoară",
+        "Gelatină alimentară",
+        "Ulei",
+        "Făină de porumb",
+        "Fulgi de cocos sau zahăr pudră"
+      ],
+      "preparation": [
+        "Pentru a pregăti acadelele prăjitură, începe prin pregătirea amestecului de zahăr, apă și sirop de fructe, care va fi baza acestor delicioase dulciuri. Adaugă ingredientele într-o cratiță și fierbe-le la foc mediu, amestecând până când compoziția ajunge la o temperatură de 150°C (testul picăturii de sirop într-un pahar cu apă rece ar trebui să formeze o bilă crocantă).",
+        "După ce siropul a atins temperatura potrivită, adaugă extractul de vanilie și orice altă aromă preferată, cum ar fi pudra de matcha pentru un gust subtil de ceai verde sau condimente pentru plăcinte pentru un profil aromeatic mai complex. Aceste adausuri vor conferi acadelelor un gust unic și interesant.",
+        "Odată ce siropul este gata, este momentul să formezi acadelele. Poți face acest lucru turnând cu grijă siropul cald în forme de silicon sau pe hârtie de copt, utilizând bețișoare sau scobitori drepte pentru a crea mânerul acadelelor. Înainte ca siropul să se întărească complet, poți presăra deasupra fulgi de cocos sau zahăr pudră pentru un aspect estetic plăcut.",
+        "Dacă dorești să adaugi o notă spectaculoasă, poți experimenta crearea unor acadele cu efect de geode. Adaugă gelatină alimentară colorată și glazură de caramel lichid sau sos de caramel în siropul fierbinte și formează acadelele în așa fel încât acestea să aibă un aspect cristalin în interior atunci când sunt tăiate.",
+        "La final, lasă acadelele să se răcească și să se întărească complet înainte de a fi savurate. Aceste acadele prăjitură se pot transforma în delicii impresionante, pline de gust și cu un aspect atrăgător, aducând o notă de originalitate și creativitate în desertul tău."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Ecler cu caise și migdale",
+      "category": "Ecler",
+      "time": "30 min",
+      "img": "/assets/img/ecler-caise-migdale.jpg",
+      "description": "Eclerul cu caise şi migdale oferă plăcerea unui dulce perfect echilibrat și gustos. Textura lejeră şi exteriorul uşor crocant oferă o experienţă culinară deosebită.",
+      "ingredients": [
+        "Făină",
+        "Apă",
+        "Unt",
+        "Ouă",
+        "Caise proaspete",
+        "Migdale",
+        "Zahăr",
+        "Lapte",
+        "Pudră de copt",
+        "Vanilie",
+        "Zahăr pudră",
+        "Gelatină"
+      ],
+      "preparation": [
+        "Pentru a începe, pregătiți aluatul pentru ecler. Într-o cratiță, aduceți apa și untul la fierbere. Adăugați făina și amestecați energic până când compoziția formează un aluat omogen ce se desprinde de pereții cratiței. Răciți aluatul și adăugați ouăle treptat, amestecând continuu până când obțineți o consistență uniformă și lucioasă.",
+        "În timp ce aluatul se odihnește, pregătiți crema de caise. Într-o cratiță, încălziți laptele și zahărul până când zahărul se dizolvă complet. Adăugați caisele tocate și lăsați-le să fiarbă până când se înmoaie și compoziția se reduce.",
+        "Separat, prăjiți migdalele pentru un plus de crocănt și arome bogate. După ce crema de caise s-a răcit puțin, adăugați migdalele prăjite și lăsați compoziția să se răcească la temperatura camerei înainte de a o folosi pentru umplutura eclerelor.",
+        "Formați eclerele pe o tavă tapetată cu hârtie de copt, folosind aluatul pregătit anterior și coaceți-le în cuptorul preîncălzit până când devin aurii și cresc frumos. După răcire, umpleți generos fiecare ecler cu crema de caise și migdale folosind un sac de patiserie sau o lingură.",
+        "Savoarea dulce-acrișoară a caiselor și crocantul subtil al migdalelor prăjite se îmbină perfect în fiecare mușcătură, oferindu-vă o experiență gustativă desăvârșită. Savurați cu plăcere acești ecleri plini de arome și texturi inedite, care vă vor încânta simțurile și vă vor oferi o bucurie dulce!"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Tort cu vanilie, miere și vișine",
+      "category": "Tort",
+      "time": "70 min",
+      "img": "/assets/img/tort-vanilie-visine.jpg",
+      "description": "Un tort rafinat, cu arome delicate de vanilie, dulceața subtilă a mierii și explozia suculentă a vișinelor proaspete. O combinație perfect echilibrată între gusturi, acest tort oferă o experiență dulce și reconfortantă pentru toți iubitorii de deserturi delicioase.",
+      "ingredients": [
+        "Făină",
+        "Zahăr",
+        "Ouă",
+        "Unt",
+        "Esență de vanilie",
+        "Miere",
+        "Vișine",
+        "Bicarbonat de sodiu",
+        "Pudră de copt",
+        "Smântână",
+        "Lapte",
+        "Iaurt"
+      ],
+      "preparation": [
+        "Într-un bol mare, amestecă untul moale sau margarina cu zahărul granulat până obții o compoziție cremoasă. Adaugă ouăle, unul câte unul, și esența de vanilie, amestecând bine după fiecare adăugare. Continuă să amesteci până când toate ingredientele sunt încorporate uniform.",
+        "Separat, într-un alt bol, amestecă făina, bicarbonatul de sodiu și pudra de copt. Adaugă treptat această combinație de ingrediente uscate în amestecul umed, alternând cu adăugarea laptelui și a iaurtului. Continuă să amesteci până când obții o compoziție omogenă și fără cocoloașe.",
+        "Toarnă aluatul rezultat într-o formă de tort pregătită, tapetată cu hârtie de copt, și nivelează-l. Așază vișinele deasupra aluatului, presând ușor pentru a le integra în compoziție. Coace tortul în cuptorul preîncălzit la temperatura specificată, până când trece testul scobitorii.",
+        "Între timp, pregătește glazura. Într-un vas mic, încălzește ușor mierea pentru a o subția puțin. După ce ai scos tortul din cuptor și l-ai lăsat să se răcească, toarnă mierea încălzită peste tortul încă cald pentru a se absorbi și a adăuga o aromă delicioasă.",
+        "Lăsați tortul să se răcească complet înainte de a împărți și a servi. Acest tort cu vanilie, miere și vișine oferă o combinație perfectă între dulceața vaniliei, aroma bogată a mierii și prospețimea vișinelor, oferindu-vă o experiență gustativă delicioasă și reconfortantă."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Tartă cu caise și migdale",
+      "category": "Tartă",
+      "time": "40 min",
+      "img": "/assets/img/tarta-caise-migdale.jpg",
+      "description": "O tartă plină de gust şi culoare, în care blatul crocant găzduieşte ferm crema revigorantă de migdale şi coulis-ul din caise cărnoase şi aromate.",
+      "ingredients": [
+        "Făină",
+        "Unt",
+        "Zahăr",
+        "Caise proaspete sau din conservă",
+        "Migdale măcinate",
+        "Ouă",
+        "Esenta de vanilie",
+        "Pudră de copt",
+        "Sare",
+        "Zahăr pudră",
+        "Lămâie"
+      ],
+      "preparation": [
+        "Pentru a pregăti aluatul, amestecă făina, untul tăiat cuburi și o lingură de zahăr într-un robot de bucătărie sau într-un bol mare. Procesează până când compoziția devine mănunchioasă. Adaugă apoi apă rece, puțin câte puțin, și amestecă până când se formează un aluat. Înfășoară aluatul în folie alimentară și lasă-l la frigider pentru cel puțin 30 de minute.",
+        "Între timp, pregătește umplutura. Spală și usucă caisele. Dacă folosești caise proaspete, taie-le în jumătate și înlătură sâmburii. Dacă folosești caise din conservă, scurge-le bine de zeamă. Într-un bol, amestecă migdalele măcinate cu o lingură de zahăr.",
+        "Întinde aluatul într-o formă de tartă și acoperă fundul și marginile formei. Presară amestecul de migdale peste aluatul din formă. Așază apoi caisele pe partea deasupra migdalelor. Presară coaja de lămâie rasă sau picură puțin suc de lămâie peste fructe.",
+        "Coace tarta în cuptorul preîncălzit la temperatura specificată în rețetă, până când crusta devine auriu închisă și caisele sunt moi și ușor caramelizate. Lasă tarta să se răcească înainte de a o tăia. Odată răcită, pudrează cu zahăr pudră și servește-o cu plăcere!",
+        "Această tartă cu caise și migdale reprezintă o combinație perfectă între dulceața caiselor proaspete sau din conservă și crocăntul subtil al migdalelor, oferind o experiență gustativă delicioasă și reconfortantă, ideală pentru momentele de răsfăț și relaxare."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Baci cu migdale și căpșuni",
+      "category": "Fursec",
+      "time": "45 min",
+      "img": "/assets/img/baci-migdale-capsuni.jpg",
+      "description": "Aceste fursecuri fragede cu migdale și căpșuni, sunt o combinaţie fermecătoare de gusturi şi texturi, perfectă pentru a rupe ritmul unei zile aglomerate sau, dimpotrivă, monotonă.",
+      "ingredients": [
+        "Făină",
+        "Zahăr",
+        "Unt",
+        "Migdale măcinate",
+        "Căpșuni proaspete",
+        "Zahăr pudră",
+        "Ouă",
+        "Scorțișoară",
+        "Esență de migdale",
+        "Coajă de lămâie",
+        "Praf de copt",
+        "Sare"
+      ],
+      "preparation": [
+        "Începeți prin pregătirea aluatului, amestecând făina cu migdalele măcinate și sarea într-un bol mare. Adăugați untul rece tăiat în cubulețe și frecăți-l ușor cu vârfurile degetelor până când obțineți un amestec mărgărită. Adăugați esența de migdale și coaja de lămâie, amestecându-le bine.",
+        "Continuați adăugând zahărul și ouăle în amestec, amestecând până când ingredientele sunt bine încorporate și aluatul este omogen. Formați aluatul într-o minge, înfășurați-l în folie alimentară și lăsați-l să se odihnească în frigider pentru cel puțin 30 de minute sau până când este suficient de ferm.",
+        "Între timp, pregătiți căpșunile spălându-le și tăindu-le în bucăți mici. Presărați-le cu puțin zahăr pudră și lăsați-le să stea pentru a elibera sucul.",
+        "După ce aluatul s-a odihnit, preîncălziți cuptorul și pregătiți tava pentru copt. Întindeți aluatul pe o suprafață presărată cu făină și tăiați cercuri cu ajutorul unui pahar sau al unui decupator. Așezați bucățile de aluat în tavă și adăugați căpșunile în mijlocul fiecărui baci.",
+        "Coaceți baci-urile în cuptorul preîncălzit până când devin ușor aurii. Lăsați-le să se răcească înainte de a le servi, oferind o aromă minunată și o textură fragedă cu migdale și căpșuni."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Ecler cu caramel sărat și rom",
+      "category": "Ecler",
+      "time": "30 min",
+      "img": "/assets/img/ecler-caramel-rom.jpg",
+      "description": "Ecler din pudra de migdale cu nibs de cacao, crema de ciocolata neagra cu rom, insertie de caramel, glasat in ciocolata.",
+      "ingredients": [
+        "Făină",
+        "Apă",
+        "Unt",
+        "Ouă",
+        "Zahăr",
+        "Caramel sărat",
+        "Rom",
+        "Sare",
+        "Lapte",
+        "Gălbenușuri",
+        "Smântână",
+        "Glucoză"
+      ],
+      "preparation": [
+        "În etapa inițială, pregătiți aluatul pentru ecler. Într-o cratiță, aduceți apa și untul la fierbere. Adăugați făina și un praf de sare, amestecând continuu până când obțineți un aluat omogen ce se desprinde de pereții cratiței. Răciți aluatul și adăugați ouăle treptat, amestecând energic până când compoziția devine netedă și lucioasă.",
+        "Pentru umplutură, pregătiți o cremă delicioasă. Într-o cratiță, combinați laptele, smântâna și gălbenușurile, apoi adăugați zahărul și glucoza. Puneți cratița pe foc mic și amestecați continuu până când compoziția se îngroașă suficient pentru a acoperi spatele unei linguri.",
+        "După ce ați pregătit crema, adăugați caramelul sărat și romul, amestecându-le bine pentru a obține o cremă aromată și bogată. Lăsați crema să se răcească la temperatura camerei pentru a o folosi ulterior.",
+        "Formați eclerele pe o tavă tapetată cu hârtie de copt, folosind aluatul pregătit anterior și coaceți-le în cuptorul preîncălzit până când devin aurii și se umflă frumos. Lăsați-le să se răcească complet înainte de a proceda la umplerea cu crema pregătită anterior.",
+        "Umpleți generos fiecare ecler cu crema de caramel sărat și rom, apoi savurați cu plăcere acest deliciu fin și aromat. Gustul dulce al caramelului, cu o notă subtilă și tentația sărată, se combină perfect cu aromele bogate ale romului, oferindu-vă o experiență gustativă deosebită!"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Tartă cu zmeură și căpșuni",
+      "category": "Tartă",
+      "time": "35 min",
+      "img": "/assets/img/tarta-zmeura-capsuni.jpg",
+      "description": "Tarta cu zmeură şi căpşuni este o explozie de culoare şi arome într-un blat crocant, un desert perfect de savurat într-o zi călduroasă de vară, precum şi în zilele întunecate şi reci.",
+      "ingredients": [
+        "Făină",
+        "Unt",
+        "Zahăr",
+        "Ouă",
+        "Zmeură proaspătă",
+        "Căpșuni proaspete",
+        "Esență de vanilie",
+        "Pudră de copt",
+        "Sare",
+        "Smântână lichidă",
+        "Gălbenuș de ou",
+        "Zeama de lămâie"
+      ],
+      "preparation": [
+        "Pentru aluatul tartei, amestecă făina, untul rece tăiat cubulețe și un praf de sare într-un bol mare. Freacă ingredientele până când obții un amestec nisipos. Adaugă oul și amestecă până când aluatul începe să se lege. Înfășoară aluatul în folie alimentară și lasă-l la frigider pentru cel puțin 30 de minute.",
+        "Între timp, spală și usucă fructele. Dacă folosești căpșuni proaspete, înlătură codițele și taie-le în bucăți mai mici. Aranjează fructele în mod uniform pe fundul crustei pregătite, adăugând zmeură și căpșuni alternativ.",
+        "Pentru umplutură, mixează smântâna lichidă până când obții o consistență fermă, apoi adaugă gălbenușurile de ou, zahărul și esența de vanilie. Toarnă amestecul peste fructele aranjate în tavă.",
+        "Coace tarta în cuptorul preîncălzit conform indicațiilor specificate în rețetă, până când umplutura este fermă și crusta este auriu închisă. Lasă tarta să se răcească complet înainte de a o decora sau de a o tăia.",
+        "Servește această tartă cu zmeură și căpșuni cu plăcere, bucurându-te de combinația rafinată între dulceața fructelor proaspete și crocănța crustei, oferind o experiență gustativă minunată pentru toți cei care o savurează."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Mini Cheesecake",
+      "category": "Mini-Prajitură",
+      "time": "45 min",
+      "img": "/assets/img/mini-cheesecake.jpg",
+      "description": "Brânză delicată, blat prietenos şi topping de caramel sărat. Aceste mini cheesecakes creează un spectacol al texturilor şi gusturilor, potrivit pentru un alint de după-amiază, un răsfăţ de weekend.",
+      "ingredients": [
+        "Biscuiți digestivi",
+        "Unt",
+        "Cremă de brânză",
+        "Zahăr",
+        "Ouă",
+        "Frișcă lichidă",
+        "Esență de vanilie",
+        "Sare",
+        "Sirop de fructe",
+        "Zahăr pudră",
+        "Lămâie",
+        "Caramel"
+      ],
+      "preparation": [
+        "Începeți prin pregătirea crustei pentru cheesecake, măcinând biscuiții digestivi și amestecându-i cu unt topit până când compoziția devine omogenă. Apoi, presați acest amestec în partea de jos a formelor pentru cheesecake-uri și lăsați-le să se răcească în frigider pentru a se întări.",
+        "Într-un bol mare, mixați crema de brânză până devine moale, apoi adăugați treptat zahărul, esența de vanilie și sarea. Continuați să amestecați până când toate ingredientele sunt bine încorporate. Adăugați ouăle unul câte unul, amestecându-i bine după fiecare adăugare.",
+        "Turnați amestecul de brânză peste crusta pregătită și nivelează-l cu grijă. Apoi, coaceți cheesecake-urile în cuptorul preîncălzit la temperatura specificată în rețetă, până când marginile sunt ferme și centrul este ușor tremurător.",
+        "Odată coapte, lăsați cheesecake-urile să se răcească în cuptor timp de câteva ore sau peste noapte pentru a se întări complet. După răcire, acoperiți-le și puneți-le în frigider pentru cel puțin câteva ore înainte de a servi.",
+        "Decorați cheesecake-urile cu sirop de fructe sau caramel, adăugând și fâșii subțiri de coajă de lămâie pentru un aspect plăcut și arome proaspete. Serviți cheesecake-urile reci și bucurați-vă de această delicioasă și aromată prăjitură."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Baci cu migdale și ciocolată",
+      "category": "Fursec",
+      "time": "45 min",
+      "img": "/assets/img/baci-cioco-migdale.jpg",
+      "description": "Fursecurile sunt umpluţe cu o cremă de ciocolată menită să-ţi trezească toate simţurile la viaţă. Sunt aromaţi, uşor crocanţi la exterior datorită migdalelor adăugate.",
+      "ingredients": [
+        "Migdale măcinate",
+        "Zahăr",
+        "Cacao",
+        "Ouă",
+        "Esenta de migdale",
+        "Ciocolată neagră",
+        "Unt",
+        "Făină",
+        "Praf de copt",
+        "Zahăr vanilat",
+        "Esență de rom",
+        "Sare"
+      ],
+      "preparation": [
+        "Începeți prin pregătirea aluatului pentru baci. Amestecați migdalele măcinate cu zahărul, cacaoa și sarea într-un bol mare. Adăugați ouăle și esența de migdale, amestecând bine până când obțineți o compoziție omogenă și consistentă.",
+        "Topiți ciocolata neagră împreună cu untul la bain-marie sau într-un castron rezistent la căldură deasupra unei oale cu apă fierbinte. Adăugați amestecul de ciocolată și unt în compoziția de migdale și amestecați bine până când toate ingredientele sunt încorporate.",
+        "Acoperiți bolul cu o folie de plastic și lăsați aluatul să se odihnească în frigider pentru aproximativ o oră sau până când devine suficient de ferm pentru a putea fi modelat. Preîncălziți cuptorul la temperatura specificată în rețetă și pregătiți o tavă cu hârtie de copt.",
+        "Scoateți aluatul din frigider și formați biluțe de dimensiunea unei nuci mici. Rolați fiecare biluță în palme pentru a-i oferi o formă rotundă și uniformă. Plasați baci-urile pe tavă și lăsați suficient spațiu între ele pentru a se extinde în timpul coacerii.",
+        "Coaceți baci-urile în cuptorul preîncălzit timp de aproximativ 10-12 minute sau până când devin ferme la atingere și încep să se crăpeze ușor. După coacere, lăsați-le să se răcească complet înainte de a le servi sau de a le păstra într-un recipient etanș."
+      ]
+    }
+  ]
+}
