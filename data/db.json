@@ -1,5 +1,4 @@
-{
-  "recipes-data": [
+[
     {
       "id": 1,
       "title": "Ecler cu cafea și nuci",
@@ -459,5 +458,4 @@
         "Coaceți baci-urile în cuptorul preîncălzit timp de aproximativ 10-12 minute sau până când devin ferme la atingere și încep să se crăpeze ușor. După coacere, lăsați-le să se răcească complet înainte de a le servi sau de a le păstra într-un recipient etanș."
       ]
     }
-  ]
-}
+]
