@@ -10,7 +10,7 @@ export default {
       },
       gray: {
         100: "#939393",
-        200: "#444444"
+        200: "#4e4e4e"
       },
       white: "#ffffff"
     },

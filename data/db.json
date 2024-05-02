@@ -4,7 +4,7 @@
       "title": "Ecler cu cafea și nuci",
       "category": "Ecler",
       "time": "30 min",
-      "img": "/assets/img/ecler-cafea-nuci.jpg",
+      "img": "assets/img/ecler-cafea-nuci.webp",
       "description": "Pentru iubitorii de cafea acest desert este o feerie de gusturi intense, care se completează cu blândeţe. Este pufos, savuros, alegerea perfectă pentru un răsfăţ la amiază sau într-un weekend tihnit.",
       "ingredients": [
         "Făină",
@@ -33,7 +33,7 @@
       "title": "Tort cu ciocolată și visine",
       "category": "Tort",
       "time": "80 min",
-      "img": "/assets/img/tort-ciocolata-visine.jpg",
+      "img": "assets/img/tort-ciocolata-visine.webp",
       "description": "Un deliciu de ciocolată savuroasă în care vişinele vin să echilibreze gustul puternic şi să îi dea un refresh, doar pentru ca să îţi doreşti la fel de mult să iei şi următoarea gură de tort.",
       "ingredients": [
         "Făină",
@@ -62,7 +62,7 @@
       "title": "Tartă cu alune de pădure și vanilie",
       "category": "Tartă",
       "time": "40 min",
-      "img": "/assets/img/tarta-alune-padure-vanilie.jpg",
+      "img": "assets/img/tarta-alune-padure-vanilie.webp",
       "description": "Tartă cu blat de bezea și alune de pădure, acompaniată de o cremă de unt cu vanilie, cacao și coniac, reprezintă o combinație perfectă între crocanta bezea, aromele subtile de alune de pădure și cremoasa cremă de unt. O experiență dulce și rafinată, savurată în fiecare mușcătură",
       "ingredients": [
         "Făină",
@@ -89,7 +89,7 @@
       "title": "Mini Pavlova",
       "category": "Mini-Prajitură",
       "time": "45 min",
-      "img": "/assets/img/mini-pavlova.jpg",
+      "img": "assets/img/mini-pavlova.webp",
       "description": "Pavlova impresionează prin contrastul crocant al bezelei, învăluit într-o umplutură moale de smântână și fructe proaspete, oferind o explozie delicioasă de arome și texturi în fiecare mușcătură.",
       "ingredients": [
         "Albușuri de ou",
@@ -118,7 +118,7 @@
       "title": "Ecler cu banană și unt de arahide",
       "category": "Ecler",
       "time": "25 min",
-      "img": "/assets/img/eclar-banana-arahide.jpg",
+      "img": "assets/img/eclar-banana-arahide.webp",
       "description": "Acest ecler este un desert special, cremos şi aromat. Bananele şi untul de arahide se potrivesc perfect şi completează elegant aluatul crocant.",
       "ingredients": [
         "Făină",
@@ -147,7 +147,7 @@
       "title": "Tort artizanal red velvet",
       "category": "Tort",
       "time": "90 min",
-      "img": "/assets/img/tort-red-velvet.jpg",
+      "img": "assets/img/tort-red-velvet.webp",
       "description": "Un tort adorabil și răcoritor, cu straturi de blat roz și alb, învăluit într-o umplutură cremoasă de căpșuni proaspete și frisca delicată. O explozie de arome dulci și proaspete, împodobit cu fructe vibrante, oferind o experiență gustativă delicioasă și aspect plin de farmec.",
       "ingredients": [
         "Făină",
@@ -176,7 +176,7 @@
       "title": "Tartă cu mango și vanilie",
       "category": "Tartă",
       "time": "35 min",
-      "img": "/assets/img/tarta-vanilie-mango.jpg",
+      "img": "assets/img/tarta-vanilie-mango.webp",
       "description": "Peste aluatul celebru al tartei inventată în Franţa adăugăm o cremă delicată şi teribil de aromată, realizată din fructe exotice. Este un desert răcoritor, ideal pentru pasionaţii de gusturi fine de vanilie și mango.",
       "ingredients": [
         "Făină",
@@ -205,7 +205,7 @@
       "title": "Acadele",
       "category": "Mini-Prajitură",
       "time": "30 min",
-      "img": "/assets/img/acadele-prajitura.jpg",
+      "img": "assets/img/acadele-prajitura.webp",
       "description": "Acadelele-prăjituri sunt unele dintre cele mai îndrăgite deserturi la evenimente. Sunt uşor de mâncat, cu arome dintre cele mai delicioase şi creează un efect vizual foarte plăcut. Cake Pops-urile noastre sunt realizate din blat umed cu ciocolată şi fructe pentru toate gusturile.",
       "ingredients": [
         "Zahăr",
@@ -232,7 +232,7 @@
       "title": "Ecler cu caise și migdale",
       "category": "Ecler",
       "time": "30 min",
-      "img": "/assets/img/ecler-caise-migdale.jpg",
+      "img": "assets/img/ecler-caise-migdale.webp",
       "description": "Eclerul cu caise şi migdale oferă plăcerea unui dulce perfect echilibrat și gustos. Textura lejeră şi exteriorul uşor crocant oferă o experienţă culinară deosebită.",
       "ingredients": [
         "Făină",
@@ -261,7 +261,7 @@
       "title": "Tort cu vanilie, miere și vișine",
       "category": "Tort",
       "time": "70 min",
-      "img": "/assets/img/tort-vanilie-visine.jpg",
+      "img": "assets/img/tort-vanilie-visine.webp",
       "description": "Un tort rafinat, cu arome delicate de vanilie, dulceața subtilă a mierii și explozia suculentă a vișinelor proaspete. O combinație perfect echilibrată între gusturi, acest tort oferă o experiență dulce și reconfortantă pentru toți iubitorii de deserturi delicioase.",
       "ingredients": [
         "Făină",
@@ -290,7 +290,7 @@
       "title": "Tartă cu caise și migdale",
       "category": "Tartă",
       "time": "40 min",
-      "img": "/assets/img/tarta-caise-migdale.jpg",
+      "img": "assets/img/tarta-caise-migdale.webp",
       "description": "O tartă plină de gust şi culoare, în care blatul crocant găzduieşte ferm crema revigorantă de migdale şi coulis-ul din caise cărnoase şi aromate.",
       "ingredients": [
         "Făină",
@@ -318,7 +318,7 @@
       "title": "Baci cu migdale și căpșuni",
       "category": "Fursec",
       "time": "45 min",
-      "img": "/assets/img/baci-migdale-capsuni.jpg",
+      "img": "assets/img/baci-migdale-capsuni.webp",
       "description": "Aceste fursecuri fragede cu migdale și căpșuni, sunt o combinaţie fermecătoare de gusturi şi texturi, perfectă pentru a rupe ritmul unei zile aglomerate sau, dimpotrivă, monotonă.",
       "ingredients": [
         "Făină",
@@ -347,7 +347,7 @@
       "title": "Ecler cu caramel sărat și rom",
       "category": "Ecler",
       "time": "30 min",
-      "img": "/assets/img/ecler-caramel-rom.jpg",
+      "img": "assets/img/ecler-caramel-rom.webp",
       "description": "Ecler din pudra de migdale cu nibs de cacao, crema de ciocolata neagra cu rom, insertie de caramel, glasat in ciocolata.",
       "ingredients": [
         "Făină",
@@ -376,7 +376,7 @@
       "title": "Tartă cu zmeură și căpșuni",
       "category": "Tartă",
       "time": "35 min",
-      "img": "/assets/img/tarta-zmeura-capsuni.jpg",
+      "img": "assets/img/tarta-zmeura-capsuni.webp",
       "description": "Tarta cu zmeură şi căpşuni este o explozie de culoare şi arome într-un blat crocant, un desert perfect de savurat într-o zi călduroasă de vară, precum şi în zilele întunecate şi reci.",
       "ingredients": [
         "Făină",
@@ -405,7 +405,7 @@
       "title": "Mini Cheesecake",
       "category": "Mini-Prajitură",
       "time": "45 min",
-      "img": "/assets/img/mini-cheesecake.jpg",
+      "img": "assets/img/mini-cheesecake.webp",
       "description": "Brânză delicată, blat prietenos şi topping de caramel sărat. Aceste mini cheesecakes creează un spectacol al texturilor şi gusturilor, potrivit pentru un alint de după-amiază, un răsfăţ de weekend.",
       "ingredients": [
         "Biscuiți digestivi",
@@ -434,7 +434,7 @@
       "title": "Baci cu migdale și ciocolată",
       "category": "Fursec",
       "time": "45 min",
-      "img": "/assets/img/baci-cioco-migdale.jpg",
+      "img": "assets/img/baci-cioco-migdale.webp",
       "description": "Fursecurile sunt umpluţe cu o cremă de ciocolată menită să-ţi trezească toate simţurile la viaţă. Sunt aromaţi, uşor crocanţi la exterior datorită migdalelor adăugate.",
       "ingredients": [
         "Migdale măcinate",
