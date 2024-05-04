@@ -58,7 +58,7 @@ function Recipes() {
               <p>No recipes in this category</p>
               </div>
           ) : (
-            recipesFiltered.map((recipe) => (
+            recipesFiltered.map(recipe => (
             <div className="recipe-item w-[45%] md:w-[31%] xl:w-[18%]" key={recipe.id}>
               <div className="card h-full">
                 <Link to={recipe.id.toString()} className="rounded-lg border-solid border border-gray-100 border-opacity-60 flex flex-col">
@@ -88,11 +88,12 @@ export default Recipes;
 
 export const recipesLoader = async () => {
   try {
-    const res = await fetch("../data/db.json");
+    const res = await fetch("data/db.json");
     if (!res.ok) {
       throw new Error("Error fetch data");
     }
     const data = await res.json();
+    console.log(data);
     return data;
   } catch (err) {
     alert(err.message);
