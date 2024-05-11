@@ -59,10 +59,10 @@ function Recipes() {
               </div>
           ) : (
             recipesFiltered.map(recipe => (
-            <div className="recipe-item w-[45%] md:w-[31%] xl:w-[18%]" key={recipe.id}>
+            <div className="recipe-item w-full md:w-[31%] xl:w-[18%] max-w-[450px] md:max-w-full" key={recipe.id}>
               <div className="card h-full">
                 <Link to={recipe.id.toString()} key={recipe.id} className="rounded-lg border-solid border border-gray-100 border-opacity-60 flex flex-col">
-                  <div className="h-[160px] md:h-[200px] overflow-hidden rounded-t-lg">
+                  <div className="h-[280px] md:h-[200px] overflow-hidden rounded-t-lg">
                     <img className="size-full object-cover" src={recipe.img} alt={recipe.title} />
                   </div>
                   <div className="p-3 flex flex-col gap-2">
@@ -88,7 +88,7 @@ export default Recipes;
 
 export const recipesLoader = async () => {
   try {
-    const res = await fetch("public/data/db.json");
+    const res = await fetch("data/db.json");
     if (!res.ok) {
       throw new Error("Error fetch data");
     }

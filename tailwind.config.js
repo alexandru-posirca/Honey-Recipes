@@ -17,7 +17,7 @@ export default {
     screens: {
       md: "768px",
       lg: "1024px",
-      xl: "1440px",
+      xl: "1320px",
     },
     container: {
       padding: "1rem",

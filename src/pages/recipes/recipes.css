@@ -1,0 +1,5 @@
+.ingredients {
+  li {
+    list-style: circle;
+  }
+}
