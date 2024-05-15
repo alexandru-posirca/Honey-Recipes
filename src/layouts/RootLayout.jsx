@@ -1,6 +1,14 @@
-import { Link, Outlet } from "react-router-dom";
+import { Link, Outlet, useLocation } from "react-router-dom";
+import { useLayoutEffect } from "react";
+import { Footer } from "../components/Footer";
 
 function RootLayout() {
+  const location = useLocation();
+
+  useLayoutEffect(() => {
+    document.documentElement.scrollTo({ top:0, left:0, behavior: "instant" });
+}, [location.pathname]);
+
   return (
     <div className="flex flex-col items-center min-h-screen">
       <header className="w-full text-lg uppercase justify-center bg-yellow-400 font-semibold flex text-white">
@@ -19,11 +27,7 @@ function RootLayout() {
       <main className="w-full mb-12">
         <Outlet />
       </main>
-      <footer className="w-full flex justify-center bg-yellow-400 font-semibold mt-auto">
-        <div className="container flex justify-center text-white">
-        <p>Develop by A</p>
-        </div>
-      </footer>
+      <Footer/>
     </div>
   );
 }
