@@ -1,8 +1,15 @@
-# React + Vite
+<div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+This is a multipage website about natural recipes with honey, the idea of the project starting from my father who is a beekeeper and who proposed to me to create a website where we can generate a list of natural recipes that can be made with honey. 
+</p>
 
-Currently, two official plugins are available:
+<p>
+This project is based on a web interface built from scratch by me, the display logic and functionality behind each page being implemented at the same time with my own ideas.
+</p>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 Tech Used
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+## ⚙️ Website Deployed - [LIVE](https://honey-recipes.pages.dev/)
